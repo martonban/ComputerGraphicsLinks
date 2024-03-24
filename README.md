@@ -12,6 +12,11 @@
 </ul>
 
 # Math
+<b>Books - Free</b>
+<ul>
+  <li><a href="https://gamemath.com">3D Math Primer for Graphics and Game Development</a></li>
+</ul>
+
 <b>Homogeneous Coordinates</b>
 <ul>
   <li><a href="https://youtu.be/Do_vEjd6gF0?si=AH3fvQMKat2EP8De">Math for Game Developers: Why do we use 4x4 Matrices in 3D Graphics?</a></li>
