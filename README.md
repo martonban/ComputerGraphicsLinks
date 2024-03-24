@@ -1,5 +1,5 @@
 # Computer Graphics Links (wip)
- 
+ This is my personal collection about computer graphics and engine development. Please support the creators who made those incradible resources!
 # Different Collections
 <ul>
   <li><a href="https://github.com/stevinz/awesome-game-engine-dev">Awesome Game Engine Development</a></li>
