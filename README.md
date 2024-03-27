@@ -7,6 +7,14 @@
   <li><a href="http://tfpsly.free.fr/bookmarks.html">Technical Link Collection</a>  credit: @_mamoniem on X</li>
 </ul>
 
+# General Graphics Courses
+<ul>
+  <li><a href="https://www.youtube.com/watch?v=vLSphLtKQ0o&list=PLplnkTzzqsZTfYh4UbhLGpI5kGd5oW_Hh">Introduction to Computer Graphics (University of Utah)</a></li>
+ <li><a href="https://www.youtube.com/watch?v=UVCuWQV_-Es&list=PLplnkTzzqsZS3R5DjmCQsqupu43oS9CFN">Interactive Computer Graphics (University of Utah)</a></li>
+  <li><a href="https://cglearn.eu/pub/computer-graphics">Computer Graphics Course (University of Tartu)</a></li>
+ <li><a href="https://cglearn.eu/pub/advanced-computer-graphics">Advanced Computer Graphics (University of Tartu)</a></li>
+</ul>
+
 # Graphics General
 <b>Books - Paid</b>
 <ul>
