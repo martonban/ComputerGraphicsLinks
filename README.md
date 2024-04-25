@@ -27,10 +27,19 @@
   <li><a href="https://gamemath.com">3D Math Primer for Graphics and Game Development</a></li>
 </ul>
 
+
+# Cool Math Videos
 <b>Homogeneous Coordinates</b>
 <ul>
   <li><a href="https://youtu.be/Do_vEjd6gF0?si=AH3fvQMKat2EP8De">Math for Game Developers: Why do we use 4x4 Matrices in 3D Graphics?</a></li>
 </ul>
+
+<b>Dot Product</b>
+<ul>
+  <li><a href="https://www.youtube.com/watch?v=TBpDMLCC2uY">The real world applications of the dot product</a></li>
+</ul>
+
+
 
 # Graphics Techniques
 <ul>
