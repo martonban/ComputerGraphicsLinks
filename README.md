@@ -39,6 +39,11 @@
   <li><a href="https://www.youtube.com/watch?v=TBpDMLCC2uY">The real world applications of the dot product</a></li>
 </ul>
 
+<b>Monte Carlo</b>
+<ul>
+  <li><a href="https://www.youtube.com/watch?v=7ESK5SaP-bc">Monte Carlo Simulation</a></li>
+</ul>
+
 
 
 # Graphics Techniques
