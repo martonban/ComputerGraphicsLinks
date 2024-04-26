@@ -41,8 +41,11 @@
 
 <b>Monte Carlo</b>
 <ul>
-  <li><a href="https://www.youtube.com/watch?v=7ESK5SaP-bc">Monte Carlo Simulation</a></li>
+  <li><a href="https://www.youtube.com/watch?v=7ESK5SaP-bc">Monte Carlo Simulation(Easy)</a></li>
+ <li><a href="https://www.youtube.com/watch?v=OgO1gpXSUzU">Monte Carlo Simulation - MIT</a></li>
 </ul>
+
+
 
 
 
