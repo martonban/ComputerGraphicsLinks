@@ -25,6 +25,7 @@
 <b>Books - Free</b>
 <ul>
   <li><a href="https://gamemath.com">3D Math Primer for Graphics and Game Development</a></li>
+   <li><a href="https://immersivemath.com/ila/learnmore.html">immersivemath</a></li>
 </ul>
 
 
