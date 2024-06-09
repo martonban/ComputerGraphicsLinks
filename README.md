@@ -21,6 +21,11 @@
   <li><a href="https://www.amazon.com/Fundamentals-of-Computer-Graphics/dp/1032122862/ref=sr_1_1?crid=2XDK8XEMX1TAP&dib=eyJ2IjoiMSJ9.-JlQB0nhlfFspfkSQGYbHBO5-Y_8RPRF62HKScZ1lrmqBPS17DEXc_Wu9qmRHszkUKTqZTBqFXc1-49yzLOamjbpmeGteO_73WZKADjrk-L9DKk35mUjiQ4fSwfJtzE44RbnYh9x-88WI0PP8LQMk62UpeD4La40nXiR4uhrbAwKPqQUQJY0NWs47tqKCFnPmgi0WCWpQ0rDl4-WPBvlntJjIyJchdJPwtKBLzsv-5Y.KYJHoSu6JMkiV0XJm3P8_oHDiFW6ENRPVo7Hf9DJgRY&dib_tag=se&keywords=fundamentals+of+computer+graphics&qid=1711124836&s=books&sprefix=Fundamentals+of+%2Cstripbooks-intl-ship%2C205&sr=1-1">Fundamentals of Computer Graphics 5th edition</a></li>
 </ul>
 
+# OpenGL
+<ul>
+ <li><a href = "https://www.youtube.com/watch?v=LzwXHuMu6PU">The OpenGL Software Ecosystem</a></li>
+</ul>
+
 # Math
 <b>Books - Free</b>
 <ul>
