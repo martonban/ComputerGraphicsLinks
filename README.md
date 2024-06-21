@@ -57,6 +57,10 @@
 </ul>
 
 
+## Technical Art
+### Blogs about shader development:
+- [Ronja's tutorials](https://www.ronja-tutorials.com/)
+
 
 
 
